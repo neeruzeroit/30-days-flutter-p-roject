@@ -1,0 +1,114 @@
+{
+    "products":[
+        {
+        "id":1,
+        "name":"Floral Print Fit & Flare Dress",
+        "price":742,
+        "color":"Pink",
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/f/c/xs-a1204-sheetal-associates-original-imag9xt9czmjmzrz-bb.jpeg?q=70"
+        },
+        {
+    
+             "id":2,
+            "name":"Long Coat",
+            "price":1200,
+            "color":"Black",
+            "image":"https://femina.wwmindia.com/content/2021/apr/04-fashion1617625491.jpg"
+    },
+    {   
+        "id":3,
+        "name":" Round-Neck T-shirt",
+        "price":335,
+        "color":"Navy",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220405/KevA/624b3cfeaeb26921af0a846e/teamspirit_navy_blue_%26_white_striped_round-neck_t-shirt.jpg"  
+    },
+
+    {
+        "id":4,
+        "name":" Crew-Neck T-shirt",
+        "price":662,
+        "color":"Black",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220718/rke5/62d565f2aeb26921af80271c/bewakoof_black_typographic_print_crew-neck_t-shirt.jpg"
+},
+{
+       "id":5,
+       "name":" Slim Fit Mom Jeans",
+        "price":1500,
+        "color":"medium-blue",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220304/rq9l/62211004f997dd03e2009d96/dnmx_blue_lightly_washed_distressed_slim_fit_mom_jeans.jpg"  
+},
+{
+        "id":6,
+        "name":"Nike, Running Shoes",
+        "price":386,
+        "color":"black",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220129/RvbN/61f44458f997dd66234678f8/nike_black_tanjun_lace-up_running_shoes.jpg"
+},
+{
+    "id":7,
+        "name":" Crew-Neck T-shirt",
+        "price":662,
+        "color":"Black",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220718/rke5/62d565f2aeb26921af80271c/bewakoof_black_typographic_print_crew-neck_t-shirt.jpg"
+},
+{
+    "id":8,
+        "name":"Floral Print Fit & Flare Dress",
+        "price":742,
+        "color":"Pink",
+        "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/f/c/xs-a1204-sheetal-associates-original-imag9xt9czmjmzrz-bb.jpeg?q=70"
+        
+},
+{
+    "id":9,
+    "name":" Slim Fit Mom Jeans",
+     "price":1500,
+     "color":"medium-blue",
+     "image":"https://assets.ajio.com/medias/sys_master/root/20220304/rq9l/62211004f997dd03e2009d96/dnmx_blue_lightly_washed_distressed_slim_fit_mom_jeans.jpg"  
+},
+{
+    "id":10,
+    "name":" Slim Fit Mom Jeans",
+     "price":1500,
+     "color":"medium-blue",
+     "image":"https://assets.ajio.com/medias/sys_master/root/20220304/rq9l/62211004f997dd03e2009d96/dnmx_blue_lightly_washed_distressed_slim_fit_mom_jeans.jpg"  
+
+},
+{
+    "id":11,
+        "name":" Crew-Neck T-shirt",
+        "price":662,
+        "color":"Black",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220718/rke5/62d565f2aeb26921af80271c/bewakoof_black_typographic_print_crew-neck_t-shirt.jpg"
+},
+{
+    "id":12,
+    "name":"Floral Print Fit & Flare Dress",
+    "price":742,
+    "color":"Pink",
+    "image":"https://rukminim1.flixcart.com/image/832/832/xif0q/dress/7/f/c/xs-a1204-sheetal-associates-original-imag9xt9czmjmzrz-bb.jpeg?q=70"
+},
+{
+    "id":13,
+       "name":" Slim Fit Mom Jeans",
+        "price":1500,
+        "color":"medium-blue",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220304/rq9l/62211004f997dd03e2009d96/dnmx_blue_lightly_washed_distressed_slim_fit_mom_jeans.jpg"  
+},
+{
+    "id":14,
+    "name":"Long Coat",
+    "price":1200,
+    "color":"Black",
+    "image":"https://femina.wwmindia.com/content/2021/apr/04-fashion1617625491.jpg"
+},
+{
+    "id":15,
+        "name":"Round-Neck T-shirt",
+        "price":335,
+        "color":"Navy",
+        "image":"https://assets.ajio.com/medias/sys_master/root/20220405/KevA/624b3cfeaeb26921af0a846e/teamspirit_navy_blue_%26_white_striped_round-neck_t-shirt.jpg"  
+}
+
+]
+}
